@@ -4,7 +4,7 @@ A collection of all projects I have done on [DataCamp](https://app.datacamp.com/
 
 ### On SQL:
 - [__Analyzing NYC Public School Test Result Scores__](https://github.com/ssarrayya/datacamp-projects/tree/main/SQL/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
-        Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process. In this project, I worked with a SQL database containing test performance from NYC's public schools. I looked at how performance varies by borough, identify how many schools fail to report information, and find the top ten performing schools across the city!
+        Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process. In this project, I worked with a SQL database containing test performance from NYC's public schools. I looked at how performance varies by borough, identified how many schools fail to report information, and found the top ten performing schools across the city!
 
 - [__Exploring the Bitcoin Cryptocurrency Market__](https://github.com/ssarrayya/datacamp-projects/tree/main/SQL/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
         To better understand the growth and impact of Bitcoin and other cryptocurrencies, I explored the market capitalization of different cryptocurrencies. Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
