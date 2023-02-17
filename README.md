@@ -21,6 +21,9 @@ A collection of all projects I have done on [DataCamp](https://app.datacamp.com/
 - [__Analyzing American Baby Name Trends__](https://github.com/ssarrayya/datacamp-projects/tree/main/SQL/Analyzing%20American%20Baby%20Name%20Trends)
         What makes a name timeless or trendy? In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes. The ranking, grouping, joining, ordering, and pattern matching skills I used in this project are broadly applicable: understanding changing tastes is a key competency for businesses as well as parents searching for a baby name!
 
+- [__When Was the Golden Age of Video Games?__](https://github.com/ssarrayya/datacamp-projects/tree/main/SQL/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)
+        In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for a golden age of video games by identifying release years that users and critics liked best, and explored the business side of gaming by looking at game sales data. 
+
 ### On Python:
 - [__Investigating Netflix Movies and Guest Stars in The Office__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
         Here, we discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib. I also gained experience in an essential data science skill — exploratory data analysis. 
