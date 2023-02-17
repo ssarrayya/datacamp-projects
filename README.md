@@ -12,3 +12,11 @@ A collection of all projects I have done on [DataCamp](https://app.datacamp.com/
 
 ### On Python:
 - [__Investigating Netflix Movies and Guest Stars in The Office__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
+        Here, we discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib. 
+        
+        I also gained experience in an essential data science skill — exploratory data analysis. 
+
+- [__Comparing Search Interest with Google Trends__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Comparing%20Search%20Interest%20with%20Google%20Trends)
+        Time series data is everywhere; from temperature records, to unemployment rates, to the S&P 500 Index. Another rich source of time series data is Google Trends, where you can freely download the search interest of terms and topics from as far back as 2004. This project dives into manipulating and visualizing Google Trends data to find unique insights.
+        
+        I explored the search data underneath the Kardashian family's fame and made custom plots to find how the most famous Kardashian/Jenner sister has changed over time. This is a guided project
