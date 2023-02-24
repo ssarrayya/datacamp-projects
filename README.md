@@ -33,3 +33,7 @@ A collection of all projects I have done on [DataCamp](https://app.datacamp.com/
 
 - [__Dr. Semmelweis and the Discovery of Handwashing__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
         In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
+
+- [__Recreating John Snow's Ghost Map__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Recreating%20John%20Snow's%20Ghost%20Map)
+        In 1854, Dr. John Snow (no, not the Game of Thrones's character) used a pre-computer method of spatial analysis by mapping patterns and occurrences of cholera outbreaks in Soho, London. He mapped the deaths in the neighbourhood and determined that a vast majority occurred around one particular water well and that those that died used that well. This is not only one of the earliest uses of data visualization, but by solving this problem, Dr. John Snow also founded spatial analysis and modern  epidemiology. In this Python project, I reanalyze the data and recreate his famous map.
+
