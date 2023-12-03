@@ -51,3 +51,6 @@ A collection of all projects I have done on [DataCamp](https://app.datacamp.com/
 
 -  [__Hypothesis Testing in Healthcare__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Hypothesis%20Testing%20in%20Healthcare)
         Pharmaceutical drugs have become an essential part of our health. Therefore, they need to be safe with little or no adverse effects. In this scenario, I work with a non-profit that advocates for pharmaceutical drug safety. One of its tasks is to create reports on drugs independent of the drug manufacturer. I conducted several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. I also checked if factors such as age significantly influence the adverse reactions.
+
+-  [__Predictive Modeling for Agriculture__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Predictive%20Modeling%20for%20Agriculture)
+        I dove into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems.
