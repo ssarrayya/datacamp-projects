@@ -54,3 +54,6 @@ A collection of all projects I have done on [DataCamp](https://app.datacamp.com/
 
 -  [__Predictive Modeling for Agriculture__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Predictive%20Modeling%20for%20Agriculture)
         I dove into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems.
+
+-  [__Exploring NYC Public School Test Result Scores__](https://github.com/ssarrayya/datacamp-projects/tree/main/Python/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores)
+        Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process. In this project, I worked with a dataset containing test performance from NYC's public schools. I identified the schools with top math results, looked at how performance varies by borough, and found the top ten performing schools across the city
